@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 3: Modelado y control del sistema
+  musculoesquelético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sergio Andree
+    family-names: Navarro Rodriguez
+    email: l23212219@tijuana.tecnm.mx
+    affiliation: TECNM / IT Tijuana
+repository-code: 'https://github.com/l23212219-bot/MSFP3'
+keywords:
+  - Sistema musculoesquelético
+  - Modelado fisiológico
+  - Función de transferencia
+  - Sistema de control
+  - Controlador PI
+  - Retroalimentación negativa
+  - Respuesta temporal
+  - MATLAB
+  - Simulink
+  - Python
+  - Simulación computacional
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-06'
